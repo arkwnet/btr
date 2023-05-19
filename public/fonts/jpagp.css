@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'JPAPGothic';
+  src: url('jpagp.woff2') format('woff2'), url('jpagp.woff') format('woff'),
+    url('jpagp.eot') format('eot');
+}

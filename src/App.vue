@@ -86,7 +86,7 @@ export default {
     const vm = this
     document.fonts.ready.then(function () {
       setTimeout(function () {
-        vm.draw(import.meta.env.BASE_URL + 'img/noimage.jpg')
+        vm.draw(import.meta.env.BASE_URL + 'img/default.jpg')
         vm.status = true
       }, 1000)
     })
